@@ -1,0 +1,12 @@
+var hobbies = {
+    1 : "Music" [
+        "guitar",
+        "piano",
+        "music production",
+    ],
+    2 : "Cooking",
+    3 : "Photography",
+    4 : "Graphic Design",
+    5 : "Video Games",
+    6 : "Late Nights w/ Friends",
+}
